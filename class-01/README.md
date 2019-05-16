@@ -7,10 +7,10 @@ Today we will be covering some new topics and reviewing concepts you should alre
 We will also spend some time preparing you to work with the newest iteration of JS, ES6. This is includes several new and very important topics, including `let`, `const`, `this`, and the `new` keyword.
 
 ## Daily Plan
-- Overview of 301
-- Context, scope, `this`, `new`, `let`, and `var`
-- RWD 101
-- Lab Prep
+- Discuss: 301 Outline and Overview
+- Discuss and Demo: context, scope, `this`, `new`, `let`, and `const`
+- Discuss and Demo: RWD and media queries
+- Assignment Preparation
 
 ## Learning Objectives
 As as result of completing Lecture 1 of Code 301, students will: 
